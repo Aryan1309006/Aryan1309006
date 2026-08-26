@@ -10,6 +10,17 @@
 
 <table width="100%">
 <tr>
+
+<td width="38%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ascii-light.svg">
+  <img alt="ASCII portrait of Aryan" src="assets/ascii-light.svg" width="280">
+</picture>
+
+</td>
+
 <td width="62%" valign="top">
 
 ### 💫 About Me
@@ -37,15 +48,7 @@ turning ideas into clean, working products — from UI to database.
 </a>
 
 </td>
-<td width="38%" align="center" valign="middle">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/ascii-light.svg">
-  <img alt="ASCII portrait of Aryan" src="assets/ascii-light.svg" width="280">
-</picture>
-
-</td>
 </tr>
 </table>
 
