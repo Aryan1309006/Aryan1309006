@@ -7,11 +7,7 @@
 </div>
 
 <br/>
-
-<table width="100%">
-<tr>
-
-<td width="38%" align="center" valign="middle">
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ascii-dark.svg">
@@ -19,9 +15,7 @@
   <img alt="ASCII portrait of Aryan" src="assets/ascii-light.svg" width="280">
 </picture>
 
-</td>
-
-<td width="62%" valign="top">
+</div>
 
 ### 💫 About Me
 
@@ -33,9 +27,11 @@ turning ideas into clean, working products — from UI to database.
 
 - 🔭 Currently building projects with **React, Node.js & MongoDB**
 - 🌱 Always leveling up — currently exploring new tools & frameworks
-- ⚡ Fun fact: this profile's portrait below is rendered entirely in **ASCII** — no image file, just text 😄
+- ⚡ Fun fact: this profile's portrait above is rendered entirely in **ASCII** — no image file, just text 😄
 
 <br/>
+
+<div align="center">
 
 <a href="https://linkedin.com/in/aryan-patil-357083331" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -47,10 +43,7 @@ turning ideas into clean, working products — from UI to database.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <br/>
 
