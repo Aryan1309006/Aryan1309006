@@ -14,10 +14,7 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/ascii-light.svg">
   <img alt="ASCII portrait of Aryan" src="assets/ascii-light.svg" width="280">
 </picture>
-
 </div>
-
-### 💫 About Me
 
 # Hi, I'm Aryan Patil 👋
 
