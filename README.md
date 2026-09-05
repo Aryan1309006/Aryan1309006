@@ -20,14 +20,13 @@
 
 ### Full-Stack Developer | MERN Stack | Problem Solver
 
-I'm passionate about building real-world applications and learning new
-technologies 🚀. I mostly work across the **MERN stack**, and I like
-turning ideas into clean, working products — from UI to database.
+I'm an IT Engineering student passionate about building **real-world web applications** and improving my problem-solving skills.
 
-- 🔭 Currently building projects with **React, Node.js & MongoDB**
-- 🌱 Always leveling up — currently exploring new tools & frameworks
-- ⚡ Fun fact: this profile's portrait below is rendered entirely in **ASCII** — no image file, just text 😄
-<br/>
+I enjoy working across the stack — from creating responsive user interfaces to building REST APIs, authentication systems, databases, and deploying applications.
+
+Currently focused on becoming a **job-ready Software Developer** by building practical projects and strengthening my fundamentals.
+
+---
 
 ## 🚀 What I'm Working On
 - 🌐 Building full-stack applications with the **MERN stack**
