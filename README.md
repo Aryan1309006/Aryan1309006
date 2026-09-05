@@ -19,7 +19,9 @@
 
 ### 💫 About Me
 
-💻 **IT Engineering Student** &nbsp;|&nbsp; **Full Stack Developer** &nbsp;|&nbsp; **Problem Solver**
+# Hi, I'm Aryan Patil 👋
+
+### Full-Stack Developer | MERN Stack | Problem Solver
 
 I'm passionate about building real-world applications and learning new
 technologies 🚀. I mostly work across the **MERN stack**, and I like
@@ -27,8 +29,95 @@ turning ideas into clean, working products — from UI to database.
 
 - 🔭 Currently building projects with **React, Node.js & MongoDB**
 - 🌱 Always leveling up — currently exploring new tools & frameworks
-- ⚡ Fun fact: this profile's portrait above is rendered entirely in **ASCII** — no image file, just text 😄
+- ⚡ Fun fact: this profile's portrait below is rendered entirely in **ASCII** — no image file, just text 😄
+<br/>
 
+## 🚀 What I'm Working On
+- 🌐 Building full-stack applications with the **MERN stack**
+- ⚛️ Improving my **React & JavaScript** skills
+- 🔧 Strengthening **Node.js, Express & MongoDB**
+- 🧠 Practicing **Data Structures & Problem Solving**
+- 🤖 Exploring **Python, Machine Learning & AI-powered applications**
+- ☁️ Learning deployment, APIs and modern development workflows
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://cdn.simpleicons.org/c" width="45"/>
+  <img src="https://cdn.simpleicons.org/cplusplus" width="45"/>
+  <img src="https://cdn.simpleicons.org/javascript" width="45"/>
+  <img src="https://cdn.simpleicons.org/python" width="45"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://cdn.simpleicons.org/html5" width="45"/>
+  <img src="https://cdn.simpleicons.org/css" width="45"/>
+  <img src="https://cdn.simpleicons.org/react" width="45"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs" width="45"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="45"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="45"/>
+  <img src="https://cdn.simpleicons.org/express" width="45"/>
+  <img src="https://cdn.simpleicons.org/fastapi" width="45"/>
+  <img src="https://cdn.simpleicons.org/socketdotio" width="45"/>
+  <img src="https://cdn.simpleicons.org/jsonwebtokens" width="45"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://cdn.simpleicons.org/mongodb" width="45"/>
+  <img src="https://cdn.simpleicons.org/mysql" width="45"/>
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://cdn.simpleicons.org/numpy" width="45"/>
+  <img src="https://cdn.simpleicons.org/pandas" width="45"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn" width="45"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://cdn.simpleicons.org/git" width="45"/>
+  <img src="https://cdn.simpleicons.org/github" width="45"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="Visual Studio Code"/>
+  <img src="https://cdn.simpleicons.org/postman" width="45"/>
+  <img src="https://cdn.simpleicons.org/vite" width="45"/>
+  <img src="https://cdn.simpleicons.org/npm" width="45"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Aryan1309006&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+</>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aryan1309006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Aryan1309006&theme=dark&hide_border=false" />
+</p>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Aryan1309006&label=Profile+Views&color=00F7FF&style=for-the-badge" />
+
+</div>
 <br/>
 
 <div align="center">
@@ -45,70 +134,9 @@ turning ideas into clean, working products — from UI to database.
 
 </div>
 
-<br/>
+---
 
-## 💻 Tech Stack
-
-<p align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Aryan1309006&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aryan1309006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Aryan1309006&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aryan1309006&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
-<br/>
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=Aryan1309006&icon=0&color=0)](https://visitcount.itsvg.in)
+⭐ If you find any of my projects useful, feel free to star them!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=100&section=footer" width="100%"/>
-
 </div>
-
-<!-- Proudly redesigned with ASCII art + GPRM (https://gprm.itsvg.in) -->
